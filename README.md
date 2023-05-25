@@ -42,7 +42,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 
 ## Prints da planilha
-![Aba inicial](https://github.com/mayaemerson/sheetinspector/issues/1#issue-1726293903)
+![Aba inicial](https://user-images.githubusercontent.com/mayaemerson/sheetinspector/issues/1)
 
 ## Licença
 
