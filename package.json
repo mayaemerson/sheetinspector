@@ -1,0 +1,21 @@
+{
+  "name": "audit",
+  "version": "1.0.0",
+  "description": "consulta sheets",
+  "main": "index.js",
+  "scripts": {
+    "glogin": "clasp login",
+    "gclone": "clasp clone 1jD2HMf4kisPadVdwzAxhNpBXwrGowB_E6ZdBIOj0rOL5Bx541rkrGR2C --rootDir apps",
+    "glogout": "clasp logout",
+    "gpull": "clasp pull",
+    "gpush": "clasp push",
+    "gstart": "clasp push --watch"
+  },
+
+  "author": "maiaemerson",
+  "license": "ISC",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.64"
+  }
+}
