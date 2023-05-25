@@ -14,7 +14,6 @@ function sheetAuditor() {
         definirSparkLine(sheet,"B2")
         loadBarr(10)
         formatText("A2").formPorcentagem
-        createMemorySheet()
 
         url = sheet.getRange(3, 2).getValue()
         const audit_data = auditUrl(url)
