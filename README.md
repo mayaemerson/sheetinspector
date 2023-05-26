@@ -38,11 +38,11 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 ## LINK DA Planilhas
 
-![Baixe a planilha aqui](https://github.com/mayaemerson/sheetinspector/issues/1#issue-1726293903)
+[Baixe a planilha aqui](https://docs.google.com/spreadsheets/d/1mENlILQA4dIVnjiHlp1b7KA1RFZ3nR0JylQuNCF6WJo/copy)
 
 
 ## Prints das telas da planilha
-
+![telainicio](https://github.com/mayaemerson/sheetinspector/assets/57040825/e36d5d5c-751c-4e66-98f2-75c6741074ae)
 
 ## Licença
 
