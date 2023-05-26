@@ -43,7 +43,10 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 ## Prints das telas da planilha
 ![telainicio](https://github.com/mayaemerson/sheetinspector/assets/57040825/e36d5d5c-751c-4e66-98f2-75c6741074ae)
-
+![abalink](https://github.com/mayaemerson/sheetinspector/assets/57040825/8187d368-6897-433b-9e18-e9e0309282f3)
+![menu](https://github.com/mayaemerson/sheetinspector/assets/57040825/644de4c2-14d2-45bd-b0f1-f84ef9852d90)
+![pesquisa](https://github.com/mayaemerson/sheetinspector/assets/57040825/403f7fa4-3a92-4720-8dc2-10c10b08bd69)
+![resposta](https://github.com/mayaemerson/sheetinspector/assets/57040825/0a1c9409-d3d2-458c-a8d4-f4d1d5a87b5d)
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
