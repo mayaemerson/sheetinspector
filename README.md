@@ -49,6 +49,13 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 ![menu](https://github.com/mayaemerson/sheetinspector/assets/57040825/2e9dfa2d-64c4-45b3-96ca-19244bcdf761)
 ![pesquisa](https://github.com/mayaemerson/sheetinspector/assets/57040825/575c76df-644d-4c28-9a17-fd28ef4447be)
 ![resposta](https://github.com/mayaemerson/sheetinspector/assets/57040825/8b5daf7f-5106-46aa-aa9d-5aa3db459f0b)
+
+
+## Clasp 
+
+Foi usando clasp (Command Line Apps Script Projects) para gerenciar este projeto.
+[clasp](https://github.com/google/clasp)
+
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
