@@ -37,7 +37,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 
 ## LINK DA Planilhas
-<img src="https://github.com/mayaemerson/sheetinspector/assets/57040825/38ae5b8a-7910-4a0c-8b31-ec3a7f2a9306" alt="Drive" width="100" />
+<img src="https://github.com/mayaemerson/sheetinspector/assets/57040825/d2cb7099-f5b3-43a5-b84a-a828c8219f99" alt="Drive" width="100" />
 
 [Baixe a planilha aqui](https://docs.google.com/spreadsheets/d/1mENlILQA4dIVnjiHlp1b7KA1RFZ3nR0JylQuNCF6WJo/copy)
 
