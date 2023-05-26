@@ -29,7 +29,7 @@ Para executar o código, use o menu "SheetInspector" localizado na parte superio
 
 ## Aba Links
 
-Para garantir a funcionalidade adequada, certifique-se de fornecer os links necessários na guia "Links" da planilha. Essa guia é onde o carimbo de data/hora da auditoria e as informações do usuário serão registradas.
+Para garantir a funcionalidade adequada, certifique-se de fornecer os links necessários na guia "Links" da planilha. Essa guia é onde o carimbo de data/hora da auditoria e as informações do usuário serão registradas, tem um campo observações para você anotar informações importantes.
 
 ## Contribuição
 
@@ -37,7 +37,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 
 ## LINK DA Planilhas
-
+![drive](https://github.com/mayaemerson/sheetinspector/assets/57040825/38ae5b8a-7910-4a0c-8b31-ec3a7f2a9306)
 [Baixe a planilha aqui](https://docs.google.com/spreadsheets/d/1mENlILQA4dIVnjiHlp1b7KA1RFZ3nR0JylQuNCF6WJo/copy)
 
 
