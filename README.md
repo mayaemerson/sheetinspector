@@ -37,18 +37,18 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 
 
 ## LINK DA Planilhas
-<img src="https://github.com/mayaemerson/sheetinspector/assets/57040825/d2cb7099-f5b3-43a5-b84a-a828c8219f99" alt="Drive" width="100" />
+<img src="https://github.com/mayaemerson/sheetinspector/assets/57040825/27288d70-e5d7-4824-af90-964acbc5100a" alt="Drive" width="100" />
 
 [Baixe a planilha aqui](https://docs.google.com/spreadsheets/d/1mENlILQA4dIVnjiHlp1b7KA1RFZ3nR0JylQuNCF6WJo/copy)
 
 
 ## Prints das telas da planilha
 
-![telainicio](https://github.com/mayaemerson/sheetinspector/assets/57040825/e36d5d5c-751c-4e66-98f2-75c6741074ae)
-![abalink](https://github.com/mayaemerson/sheetinspector/assets/57040825/8187d368-6897-433b-9e18-e9e0309282f3)
-![menu](https://github.com/mayaemerson/sheetinspector/assets/57040825/644de4c2-14d2-45bd-b0f1-f84ef9852d90)
-![pesquisa](https://github.com/mayaemerson/sheetinspector/assets/57040825/403f7fa4-3a92-4720-8dc2-10c10b08bd69)
-![resposta](https://github.com/mayaemerson/sheetinspector/assets/57040825/0a1c9409-d3d2-458c-a8d4-f4d1d5a87b5d)
+![telainicio](https://github.com/mayaemerson/sheetinspector/assets/57040825/b1787fec-5a34-4a74-b7c8-c0a2ad56471e)
+![abalink](https://github.com/mayaemerson/sheetinspector/assets/57040825/eb92f36d-6e5a-42ae-93e5-d826a7ab5ce8)
+![menu](https://github.com/mayaemerson/sheetinspector/assets/57040825/2e9dfa2d-64c4-45b3-96ca-19244bcdf761)
+![pesquisa](https://github.com/mayaemerson/sheetinspector/assets/57040825/575c76df-644d-4c28-9a17-fd28ef4447be)
+![resposta](https://github.com/mayaemerson/sheetinspector/assets/57040825/8b5daf7f-5106-46aa-aa9d-5aa3db459f0b)
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
